@@ -4,7 +4,7 @@
 ## Day One Schedule
  	|	Time        		| Activity       |
    -------------|-------------       |:-------------:|
-    Morning	            |   9:00 - 9:30        | iPhone App Wireframing
+    Morning	            |   9:00 - 9:30        | [Morning Slides]() <br> iPhone App Wireframing
 		            |   9:30 - 9:45    	   | Introduction to git	     
  		            |   9:45 - 10:00  	   | XCode Walkthrough
  		            |   10:00 - 10:45	   | Constants, Variables, and Data Types <br> [calculator mini-lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-calculator.md) <br> [calculator mini-lab playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
